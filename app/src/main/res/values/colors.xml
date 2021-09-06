@@ -6,5 +6,40 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="blackslow">#717171</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--<color name="colorPrimary">#0C0C0C</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>-->
+    <color name="colorPrimary">#700001</color>
+    <color name="colorPrimaryDark">#680001</color>
+    <color name="colorAccent">#7E0002</color>
+    <color name="colorPrimaryDark1">#fa2424</color>
+    <color name="boxlogin">#0158ba</color>
+    <color name="deff">#808080</color>
+    <color name="deffslow">#b9b8b8</color>
+    <color name="deffslowkali">#e1e1e1</color>
+    <color name="deffslowkalii">#f5f5f5</color>
+    <color name="deffslowkaliii">#FDFCFC</color>
+    <color name="merah">#FF0000</color>
+    <color name="red">#DA2826</color>
+    <color name="redcust1">#CAA8A8</color>
+    <color name="redmuda">#BB7B7B</color>
+    <color name="redinbox">#BF877A</color>
+    <color name="redmudakali">#DFBFBF</color>
+    <color name="redTua">#9C0402</color>
+    <color name="yellow">#DDC801</color>
+    <color name="yellow2">#E4CF01</color>
+    <color name="backgroundgm">#FDD540</color>
+    <color name="blue">#0274FB</color>
+    <color name="darkblue">#004392</color>
+    <color name="green">#00b400</color>
+    <color name="greenTua">#019C01</color>
+    <color name="greenWa">#4caf50</color>
+
+    <color name="kuning">#FFFF00</color>
+    <color name="merahbata">#fa2424</color>
+
+    <color name="black_overlay">#66000000</color>
 </resources>
